@@ -8,4 +8,15 @@ Asynchronous Server JavaScript API's - ASJSA is a set of web development techniq
 The element function is to get a element from the HTML by classes or tags or id's. 
 
 For example: element('h1'), element("#myDivWithId"), element(".myDivWithClass").
+
 <a href="https://github.com/BestMat/ASJSA/test/element/">For more info, click here </a>
+
+<h4>onClick Function</h4>
+
+onClick(elementName,code to execute)
+
+<h4>val Function</h4>
+If you want to get the value of a element, use the val() function.
+
+val(elementName)
+
