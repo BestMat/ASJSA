@@ -6,5 +6,6 @@ Asynchronous Server JavaScript API's - ASJSA is a set of web development techniq
 <a href="https://raw.githubusercontent.com/BestMat/ASJSA/main/asjsa.js">Click for CDN</a>
 <h4>The element function</h4>
 The element function is to get a element from the HTML by classes or tags or id's. 
+
 For example: element('h1'), element("#myDivWithId"), element(".myDivWithClass").
- <a href="https://github.com/BestMat/ASJSA/test/element/">For more info, click here </a>
+<a href="https://github.com/BestMat/ASJSA/test/element/">For more info, click here </a>
