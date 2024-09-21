@@ -1,5 +1,5 @@
 // ©2021 - Asynchronous Server JavaScript API's - BestMat 
-// No Copying Code
+
 var document = window.document;
 var version = 1;
 () => {
